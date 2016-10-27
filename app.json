@@ -1,0 +1,6 @@
+{
+  "name": "Slack Mixpanel",
+  "description": "Slack Commands for mixpanel",
+  "repository": "https://github.com/wilferrel/slack-mixpanel-command",
+  "addons": []
+}
